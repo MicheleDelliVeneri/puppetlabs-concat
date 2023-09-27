@@ -135,7 +135,7 @@ Acceptance tests for this module leverage [puppet_litmus](https://github.com/pup
 To run the acceptance tests follow the instructions [here](https://github.com/puppetlabs/puppet_litmus/wiki/Tutorial:-use-Litmus-to-execute-acceptance-tests-with-a-sample-module-(MoTD)#install-the-necessary-gems-for-the-module).
 You can also find a tutorial and walkthrough of using Litmus and the PDK on [YouTube](https://www.youtube.com/watch?v=FYfR7ZEGHoE).
 
-If you run into an issue with this module, or if you would like to request a feature, please [file a ticket](https://tickets.puppetlabs.com/browse/MODULES/).
+If you run into an issue with this module, or if you would like to request a feature, please [file a ticket](https://github.com/puppetlabs/puppetlabs-concat/issues).
 Every Tuesday the Content and Tooling Team has [office hours](https://puppet.com/community/office-hours) in the [Puppet Community Slack](http://slack.puppet.com/), where you can ask questions about this and any other supported modules.
 This session usually runs at, approximately, 15:00 (BST), for about an hour.
 
