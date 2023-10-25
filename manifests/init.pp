@@ -142,7 +142,7 @@ define concat (
       validate_cmd            => $validate_cmd,
       format                  => $format,
       force                   => $force,
-      create_empty_file       => $create_empty_file,
+      #create_empty_file       => $create_empty_file,
     }
 
     if $_append_header {
